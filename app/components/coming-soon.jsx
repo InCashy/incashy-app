@@ -14,6 +14,7 @@ const ComingSoon = () => {
           alt="Cashy Logo"
           width={40}
           height={40}
+          unoptimized
           className="mr-2"
         />
         <h1 className="text-3xl font-bold text-gray-900">InCashy</h1>

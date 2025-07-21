@@ -54,6 +54,9 @@ export const metadata: Metadata = {
     creator: "@incashy",     // Replace with your Twitter handle if you have one
     images: ["https://www.incashy.com/og-image.png"],
   },
+  alternates: {
+    canonical: "https://app.incashy.com",
+  },
 
   robots: {
     index: true,
